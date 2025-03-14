@@ -31,10 +31,10 @@ async function fetchGithub() {
                 </div>
             `;
         }
-
+        displayProfile(data);
     }
     catch(error){
-        profile.innerHTML = "${error.message}"
+        profile.innerHTML = `${error.message}`;
     }
    
 }
