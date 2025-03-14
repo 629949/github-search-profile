@@ -4,7 +4,7 @@
 
 this is a simple project to enable or help a user search for a github user profile 
 - type the username in the input field
--search the public profile 
+- search the public profile 
 
 
 ### Before you go 
